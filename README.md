@@ -25,10 +25,10 @@ Este projeto consiste em um dashboard interativo desenvolvido com Streamlit, uti
 
 1. Baixe ou clone o repositório do projeto.
 2. Caso utilize Python puro, instale as dependências acima com:
-"pip install pandas plotly streamlit sqlalchemy urllib3"
-3. Caso utilize Anaconda, as dependências já vêm instaladas por padrão.
-4. Instale o Microsoft SQL Server Management Studio e configure o banco AdventureWorks2022.
-   Link do Banco [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+   - "pip install pandas plotly streamlit sqlalchemy urllib3"
+4. Caso utilize Anaconda, as dependências já vêm instaladas por padrão.
+5. Instale o Microsoft SQL Server Management Studio e configure o banco AdventureWorks2022.
+   - Link do Banco [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 6. Dentro da pasta do projeto, execute:
 
 ## ⚙️ Executando
