@@ -34,7 +34,7 @@ Este projeto consiste em um dashboard interativo desenvolvido com Streamlit, uti
 ## ⚙️ Executando
 
 Ápos ter executado o passo a passo acima, execute o comando:
-  streamlit run dash_vendas.py
+  - streamlit run dash_vendas.py
 
 Esse comando irá abrir uma janela no navegador
 
