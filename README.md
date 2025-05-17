@@ -28,7 +28,7 @@ Este projeto consiste em um dashboard interativo desenvolvido com Streamlit, uti
 "pip install pandas plotly streamlit sqlalchemy urllib3"
 3. Caso utilize Anaconda, as dependências já vêm instaladas por padrão.
 4. Instale o Microsoft SQL Server Management Studio e configure o banco AdventureWorks2022.
-   Link do Banco [AdventureWorks]([http://www.dropwizard.io/1.0.2/docs/](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)) 
+   Link do Banco [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 6. Dentro da pasta do projeto, execute:
 
 ## ⚙️ Executando
@@ -40,9 +40,9 @@ Esse comando irá abrir uma janela no navegador
 
 ## 🛠️ Construído com
 
-* [Anaconda]([http://www.dropwizard.io/1.0.2/docs/](https://www.anaconda.com/)) - Interpretador usado
-* [Microsoft SQL Server Management Studio]([https://maven.apache.org/](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms)) - Servidor de Banco de Dados
-* [AdventureWorks]([https://rometools.github.io/rome/](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)) - Banco usado
+* [Anaconda](https://www.anaconda.com/) - Interpretador usado
+* [Microsoft SQL Server Management Studio](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms) - Servidor de Banco de Dados
+* [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) - Banco usado
 
 
 
