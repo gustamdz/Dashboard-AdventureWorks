@@ -36,7 +36,7 @@ Este projeto consiste em um dashboard interativo desenvolvido com Streamlit, uti
 Ápos ter executado o passo a passo acima, faça:
   - Abra o SSMS
   - Restaure o banco "AdventureWorks2022"
-  - Dentro do código, mude as configurações de conexão para conectar ao seu SQL Server
+  - Dentro do código, mude as configurações de conexão para conectar o seu SQL Server
   - E no final, insira esse comando no Bash: "streamlit run dash_vendas.py"
 
 Esse comando irá abrir uma janela no navegador, onde terá o Script rodando 100% funacional
